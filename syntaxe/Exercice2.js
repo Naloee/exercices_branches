@@ -1,6 +1,6 @@
 const prenom = "Nasra"
 const nom = "Ali"
-alert (`Bonjour ${prenom} ${nom}`)
+alert(`Bonjour ${prenom} ${nom}`)
 const retraite = 64
 let age = 28
 let result = retraite - age
