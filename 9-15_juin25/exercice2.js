@@ -27,7 +27,6 @@ function calculCarré(number){
 // console.log(calculCarré(3))
 // console.log(calculCarré(2))
 
-// Exercice 2
 function calculCarré(number){
     return number*number
 }
